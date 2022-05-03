@@ -29,3 +29,8 @@
     text-align:right;
     font-size: 24px;
 }
+
+img {
+    height: 200px;
+    width: 100px;
+}
