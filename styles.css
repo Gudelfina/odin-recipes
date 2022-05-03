@@ -1,0 +1,31 @@
+#cool {
+    background-color: beige;
+    color: rgb(121, 208, 121);
+    font-weight: bold;
+    text-align: center;
+}
+
+.head1,
+.head2,
+.head3 {
+    font-family: "Times New Roman", sans-serif;
+    background-color: pink; 
+    color: rgb(174, 83, 174);
+}
+
+.head1 {
+    text-align: center;
+}
+
+.para {
+    background-color: rgb(219, 91, 91);
+    font-family: Georgia, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+
+.para-cool {
+    background-color: blue;
+    text-align:right;
+    font-size: 24px;
+}
